@@ -96,7 +96,7 @@ volumes:
 
 ## ▶️ Passo 2: Executando a Instalação
 
-No terminal, dentro do diretório do projeto, execute:
+No terminal, dentro do diretório `docker/`, execute:
 
 ```bash
 docker compose up -d
