@@ -1,6 +1,6 @@
-# 🚀 Guia Profissional de Instalação do N8N em Servidor de Produção
+# 🚀 ChatBot utilizando n8n
 
-Este guia detalha como instalar e configurar o **N8N** em um servidor de produção de um sistema PHP. O objetivo é criar um ambiente seguro, robusto e isolado para suas automações.
+Este repositório trata de como fazer um ChatBot n8n simples utilizando workflows n8n e uma api simples em php.
 
 ---
 
@@ -129,4 +129,4 @@ Você será solicitado a inserir o usuário e senha definidos no arquivo `.env`.
 
 ---
 
-Com esta configuração, você terá uma instalação **robusta** e **segura** do N8N, pronta para modernizar e integrar seu sistema PHP! 🚀
+ChatBot simples utilizando n8n como automação e um pequeno back-end em php! 🚀
