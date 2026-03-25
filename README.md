@@ -4,7 +4,7 @@ Este repositório trata de como fazer um ChatBot n8n simples utilizando workflow
 
 ---
 
-## 📋 Pré-requisitos
+## 📋 Pré-requisitos 
 
 Antes de começar, certifique-se de que seu servidor atende aos seguintes requisitos:
 
